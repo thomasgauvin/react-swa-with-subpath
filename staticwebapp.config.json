@@ -11,5 +11,8 @@
     ],
     "navigationFallback": {
         "rewrite": "/foobar/index.html"
+    },
+    "globalHeaders": {
+        "Cache-Control": "no-store"
     }
 }
